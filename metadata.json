@@ -1,0 +1,6 @@
+{
+  "name": "AHB to APB Bridge RTL Review Portal",
+  "description": "An interactive engineering design review and RTL sign-off portal for an AHB-Lite to APB4 Bridge, featuring architecture diagrams, state machines, waveform viewers, and testcase verification summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
