@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AHB-Lite to APB4 Bridge RTL Review Dashboard
 
-# Run and deploy your AI Studio app
+Interactive RTL Design Verification Dashboard inspired by NVIDIA internal design review tools.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/d42604d6-774a-461e-8a9c-6abc8649d1fe
+- Interactive RTL Architecture Explorer
+- RTL Module Explorer
+- FSM Analysis
+- Verification Dashboard
+- GTKWave Waveform Viewer
+- Regression Console
+- Traceability Matrix
+- PDF Report Generation
 
-## Run Locally
+## Technologies
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lucide React
 
+## Screenshots
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+(Add dashboard screenshots here)
+
+## How to Run
+
+```bash
+npm install
+npm run dev
+```
+
+## Future Work
+
+- UVM Coverage Dashboard
+- Interactive VCD Parser
+- Automatic Coverage Report Import
+
+## Live Demo
+
+🌐 https://ahb-apb-bridge-theta.vercel.app/
