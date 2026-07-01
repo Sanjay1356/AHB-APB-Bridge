@@ -23,7 +23,8 @@ Interactive RTL Design Verification Dashboard inspired by NVIDIA internal design
 
 ## Screenshots
 
-(Add dashboard screenshots here)
+<img width="2940" height="1668" alt="image" src="https://github.com/user-attachments/assets/6684e4a1-88a8-4d5e-b7f9-f76507e05263" />
+
 
 ## How to Run
 
